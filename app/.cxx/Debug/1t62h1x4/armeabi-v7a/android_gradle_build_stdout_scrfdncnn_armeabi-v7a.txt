@@ -1,0 +1,2 @@
+ninja: Entering directory `E:\karuizhi\krz_scrfd_1.0\app\.cxx\Debug\1t62h1x4\armeabi-v7a'
+ninja: no work to do.

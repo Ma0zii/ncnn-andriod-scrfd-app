@@ -1,0 +1,7 @@
+Executable : C:\Users\maozii\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\maozii\Desktop\nihuiscrfd\demo1\app\.cxx\Debug\406i3ji2\armeabi-v7a
+retinafacencnn
+jvmArgs : 
+

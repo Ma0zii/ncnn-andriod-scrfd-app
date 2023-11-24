@@ -1,0 +1,12 @@
+# ninja log v5
+15	571	722155608	CMakeFiles/retinafacencnn.dir/retinaface_jni.cpp.o	3015f6c4835340e4
+1	660	722155608	CMakeFiles/retinafacencnn.dir/retinaface.cpp.o	e3409fc0f8e87112
+22	780	722155608	CMakeFiles/retinafacencnn.dir/scrfd_jni.cpp.o	a656e3257f93756d
+9	932	722155608	CMakeFiles/retinafacencnn.dir/scrfd.cpp.o	503ff336c8b45a38
+933	1198	722155608	C:/Users/maozii/Desktop/nihuiscrfd/demo1/app/build/intermediates/cxx/Debug/406i3ji2/obj/armeabi-v7a/libretinafacencnn.so	e138fcb04e1b9b47
+1	12	0	clean	7b97b6ed5a01938
+10	774	722156012	CMakeFiles/retinafacencnn.dir/retinaface_jni.cpp.o	3015f6c4835340e4
+4	860	722156012	CMakeFiles/retinafacencnn.dir/retinaface.cpp.o	e3409fc0f8e87112
+23	950	722156012	CMakeFiles/retinafacencnn.dir/scrfd_jni.cpp.o	a656e3257f93756d
+16	1078	722156012	CMakeFiles/retinafacencnn.dir/scrfd.cpp.o	503ff336c8b45a38
+1079	1322	722156012	C:/Users/maozii/Desktop/nihuiscrfd/demo1/app/build/intermediates/cxx/Debug/406i3ji2/obj/armeabi-v7a/libretinafacencnn.so	e138fcb04e1b9b47
