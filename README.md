@@ -1,5 +1,5 @@
-# ncnn-andriod-retainface
-retainface-mobilenetv2.5 for andriod
+# ncnn-andriod-scrfd
+scrfd for andriod
 
 # how to use
 
@@ -11,6 +11,6 @@ retainface-mobilenetv2.5 for andriod
 
 4.enjoy it
 
-![demo](https://img-blog.csdnimg.cn/20201016084221771.gif#pic_center)
+![img.png](img.png)
 
-Chinese blog:https://javis486.blog.csdn.net/article/details/109099941
+Chinese blog:
